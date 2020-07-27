@@ -1,0 +1,9 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "we are developing node and express application",
+  "main": "server.js",
+  "repository": "https://github.com/Ravikumar14/node-express.git",
+  "author": "Ravi",
+  "license": "MIT"
+}
